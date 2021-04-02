@@ -71,3 +71,5 @@ def slow_factors(n):
   if n > 1:
     res.append(n)
   return res
+
+
